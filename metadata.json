@@ -1,0 +1,6 @@
+{
+  "name": "KidzPrompt AI",
+  "description": "AI Video Prompt Studio for Kids Animation Creators",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
